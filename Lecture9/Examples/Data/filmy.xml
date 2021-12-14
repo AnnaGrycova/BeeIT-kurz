@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <ID>1</ID>
+    <Name>Star Wars 4</Name>
+    <Director>George Lucas</Director>
+    <Year>1977</Year>
+  </Film>
+  <Film>
+    <ID>2</ID>
+    <Name>Star Wars 5</Name>
+    <Director>George Lucas</Director>
+    <Year>1980</Year>
+  </Film>
+</ArrayOfFilm>
